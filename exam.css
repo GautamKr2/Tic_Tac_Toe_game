@@ -1,0 +1,39 @@
+.content {
+    height: 40vh;
+    width: 80vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#para {
+    font-size: 1.2rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    margin-left: 75px;
+}
+.box {
+    margin: 10px;
+    margin-top: 15px;
+    height: 30px;
+    width: 60px;
+    color: #ffffff;
+    border-radius: 1rem;
+}
+#box1 {
+    width: 100px;
+    background-color: rgb(52, 76, 71);
+}
+#box2 {
+    background-color: rgba(255, 0, 0, 0.75);
+}
+#box3 {
+    background-color: rgba(0, 255, 0, 0.75);
+}
+#box4 {
+    background-color: rgba(0, 0, 255, 0.75);
+}
